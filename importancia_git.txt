@@ -1,0 +1,3 @@
+A colaboração e a autogestão em um projeto de controle de versão (como o Git) são essenciais para o sucesso de qualquer equipe de desenvolvimento. 
+A colaboração permite que múltiplos desenvolvedores trabalhem no mesmo código simultaneamente sem sobrescrever o trabalho do outro. 
+Já a autogestão exige responsabilidade de cada membro para realizar commits descritivos, manter suas branches organizadas e resolver conflitos, garantindo que o projeto evolua de forma estável, segura e rastreável.
