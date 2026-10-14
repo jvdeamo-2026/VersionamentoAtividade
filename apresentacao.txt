@@ -1,1 +1,0 @@
-Olá! Meu nome é Afonso Dos Reis, sou estudante e estou participando desta atividade de versionamento. Tenho interesse na área de desenvolvimento e estou aprendendo a utilizar o Git para gerenciar meus projetos.
